@@ -214,4 +214,4 @@ Este proyecto es de código abierto y está disponible bajo la [MIT License](LIC
 
 ---
 
-**Desarrollado con ❤️ usando Laravel y Vue.js**
+**Desarrollado por Leranuva usando Laravel y Vue.js**
